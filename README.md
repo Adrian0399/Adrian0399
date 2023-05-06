@@ -1,5 +1,5 @@
 <h1 align="center">Hi :3, I'm Αdrian Olvera ㋡</h1>
-<h3 align="center">〔 Computer Systems Engineer 〕</h3>
+<h3 align="center">〔 Computer Systems Engineer 〕 - 〔 Software developer 〕</h3>
 
 - ⁝ 23 years old 🍃
 
