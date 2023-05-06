@@ -3,7 +3,7 @@
 
 - ⁝ 23 years old 🍃
 
-- ⁝ University **Tecnológico de Estudios Superiores de Ixtapaluca**
+- ⁝ University: **Tecnológico de Estudios Superiores de Ixtapaluca**
 
 - ⁝ I’m currently working on **Java<Spring>, JS/TS<React>.**
 
