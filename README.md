@@ -5,7 +5,7 @@
 
 - ⁝ University: **Tecnológico de Estudios Superiores de Ixtapaluca**
 
-- ⁝ I’m currently working on **Java-Spring-, JS/TS-React-.**
+- ⁝ I’m currently working on **Java﹤Spring﹥, JS/TS﹤React﹥.**
 
 - ⁝ All of my projects are available at [https://github.com/Adrian0399](https://github.com/Adrian0399)
 
